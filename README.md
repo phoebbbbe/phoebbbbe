@@ -11,9 +11,8 @@
 
 <h3>📊 Data Analysis Projects</h3>
 <ul>
-<!--
-<li><p>Check out my Project Portfolio: <a href="https://github.com/">My Projects</a></p></li></ul>
--->
+<li><p>Check out my Project Portfolio: <a href="https://github.com/phoebbbbe/Phoebes-Portfolio.git">My Projects</a></p></li></ul>
+
 
 <!--
 **phoebbbbe/phoebbbbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
