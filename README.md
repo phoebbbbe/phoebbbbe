@@ -9,13 +9,13 @@
   <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
   <img alt="MS SQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 </p>
-
+<!--
 <h3>📊 Data Analysis Projects</h3>
 <ul>
 <li><p>Check out my Project Portfolio: <a href="https://github.com/phoebbbbe/Phoebes-Portfolio.git">My Projects</a></p></li></ul>
 
 
-<!--
+
 **phoebbbbe/phoebbbbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
