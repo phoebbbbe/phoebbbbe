@@ -1,4 +1,4 @@
-## Hi there 👋 Introducing myself,
+## Hi there 👋 Introducing myself
 
 
 <h3>Things I code with</h3>
